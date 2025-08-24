@@ -20,6 +20,7 @@ const Navigation = () => {
     { name: 'Expertise', href: '#expertise' },
     { name: 'Systems', href: '#systems' },
     { name: 'Technical Guidance', href: '#technical' },
+    { name: 'Career', href: '/career' },
     { name: 'Contact', href: '#contact' },
   ];
 

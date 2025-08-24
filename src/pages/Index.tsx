@@ -7,7 +7,6 @@ import Expertise from '@/components/Expertise';
 import SystemRepairs from '@/components/SystemRepairs';
 import TechnicalGuidance from '@/components/TechnicalGuidance';
 import Contact from '@/components/Contact';
-import Career from '@/components/Career';
 import Footer from '@/components/Footer';
 
 const Index = () => {
@@ -22,7 +21,6 @@ const Index = () => {
         <SystemRepairs />
         <TechnicalGuidance />
         <Contact />
-        <Career />
       </main>
       <Footer />
     </div>
